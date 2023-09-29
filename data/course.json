@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Engineering"
+    ],
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "bc010b41-07b9-1b66-f1bd-d7c554dccbbd",
+  "instructors": {
+    "content": [
+      "8a8d0896-12eb-6cba-2303-e2a9859430f8",
+      "cc80813e-ad5d-ff21-4841-b124ffd4bac1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "69dbcea7-905a-3c53-3947-df15972243c8",
+    "website": "6-931-development-of-inventions-and-creative-ideas-spring-2008"
+  },
+  "course_title": "Development of Inventions and Creative Ideas",
+  "course_description": "This course examines the role of the engineer as patent expert and as technical witness in court and patent interference and related proceedings. It discusses the rights and obligations of engineers in connection with educational institutions, government, and large and small businesses. It compares various manners of transplanting inventions into business operations, including development of New England and other U.S. electronics and biotechnology industries and their different types of institutions. The course also considers American systems of incentive to creativity apart from the patent laws in the atomic energy and space fields.\n\nAcknowledgment\n--------------\n\nThe instructors would like to thank Joanne Rines and Elijah Ercolino for their efforts in preparing this course.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.931",
+  "course_image_thumbnail": {
+    "content": "bcc76bab-73e3-5f81-b0c0-526ad39ed8c1",
+    "website": "6-931-development-of-inventions-and-creative-ideas-spring-2008"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Online Textbook"
+  ],
+  "site_uid": "aa9cc98e-c3f8-4553-90cb-810e26a6416b",
+  "site_short_id": "6.931-spring-2008",
+  "title": "Course Metadata"
+}
